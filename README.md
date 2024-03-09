@@ -6,7 +6,7 @@ This project showcases a simple card design using HTML and CSS. It includes an i
 
 To view this project, simply open the `index.html` file in your web browser. You can also clone this repository to your local machine using the following command:
 
-git clone <repository-url>
+git clone &lt; repository-url &gt;
 
 ## Features
 

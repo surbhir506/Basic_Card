@@ -1,0 +1,87 @@
+body {
+  background-color: rgb(242, 242, 229);
+  /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;*/
+  display: inline-block;
+  margin: 51px 536px;
+}
+.card {
+  border: 2px solid rgb(234, 219, 219);
+  border-radius: 20px;
+  height: 495px;
+  width: 350px;
+  background-color: rgb(233, 244, 244);
+  box-shadow: 0px 2px 17px black;
+}
+.img {
+  /* margin: 5px 5px 5px 5px; */
+}
+.img img {
+  width: 350px;
+  border-radius: 18px 18px 0px 0px;
+}
+.capsule {
+  display: flex;
+  margin-left: 12px;
+  margin-top: 8px;
+}
+.capsule1 {
+  margin-right: 10px;
+  background-color: rgb(100, 188, 217);
+  border-radius: 12px;
+  color: rgb(227, 236, 236);
+  padding: 3px 10px 3px 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.capsule1:hover {
+  color: rgb(26, 51, 51);
+}
+.capsule2 {
+  margin-right: 25px;
+  background-color: rgb(100, 188, 217);
+  border-radius: 12px;
+  color: rgb(227, 236, 236);
+  padding: 3px 10px 3px 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.capsule2:hover {
+  color: rgb(26, 51, 51);
+}
+.content h2 {
+  margin-left: 10px;
+  margin-bottom: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(37, 30, 30);
+  margin-top: 5px;
+}
+.content p {
+  margin-left: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 5px;
+  color: rgb(81, 81, 78);
+}
+.more {
+  text-align: center;
+}
+button {
+  color: rgb(227, 236, 236);
+  border-radius: 15px;
+  border: 2px solid rgb(100, 188, 217);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgb(100, 188, 217);
+  padding: 5px;
+  font-weight: bold;
+}
+button:hover {
+  color: rgb(26, 51, 51);
+}
+.footer {
+  text-align: center;
+  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  color: rgb(152, 147, 147);
+  margin-top: 30px;
+}

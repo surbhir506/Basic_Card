@@ -6,3 +6,14 @@ This project showcases a simple card design using HTML and CSS. It includes an i
 
 To view this project, simply open the `index.html` file in your web browser. You can also clone this repository to your local machine using the following command:
 
+git clone <repository-url>
+
+## Features
+
+- Responsive card design with CSS styling.
+- Hover effects on capsule elements and the "Read more" button.
+- Centered card layout for better presentation.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
